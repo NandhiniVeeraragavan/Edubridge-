@@ -1,2 +1,3 @@
 # Edubridge-
-MINI PROJECT
+        JAVA MINI PROJECT
+        Banking application
